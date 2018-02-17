@@ -1,10 +1,10 @@
-#stimpy
+# stimpy
 
 Provisioning tool for fast prototyping and multi-system dotfile storage
 
 The following is not so much a readme but is a design specification at present
 
-##Command line switches
+## Command line switches
 
 __sync/push__
 _-s (-S) or -u (-U) remote\_location_
